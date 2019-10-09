@@ -1,5 +1,5 @@
 {
-	"name": "@lukabuz/validator",
+	"name": "html-request-validator",
 	"version": "1.0.0",
 	"description": "Simple Javascript Validator",
 	"main": "index.js",
