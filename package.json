@@ -1,19 +1,19 @@
 {
-  "name": "validator",
-  "version": "1.0.0",
-  "description": "Simple Javascript Validator",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/lukabuz/validator.git"
-  },
-  "author": "Luka Buzaladze",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/lukabuz/validator/issues"
-  },
-  "homepage": "https://github.com/lukabuz/validator#readme"
+	"name": "@lukabuz/validator",
+	"version": "1.0.0",
+	"description": "Simple Javascript Validator",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/lukabuz/validator.git"
+	},
+	"author": "Luka Buzaladze",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/lukabuz/validator/issues"
+	},
+	"homepage": "https://github.com/lukabuz/validator#readme"
 }
